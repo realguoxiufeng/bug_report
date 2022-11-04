@@ -4,7 +4,7 @@ BUG_Author: realguoxiufeng
 
 vendors:https://www.sourcecodester.com/php/14910/online-leave-management-system-php-free-source-code.html
 
-Vulnerability url: /purchase_order/admin/?page=system_info
+Vulnerability url: /leave_system/admin/?page=system_info
 
 vulnerability location：There is an arbitrary file upload vulnerability in the "Settings" module in the background management system
 
