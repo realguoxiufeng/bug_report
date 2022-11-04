@@ -1,4 +1,4 @@
-# Online Leave Management System v1.0 by oretnom23 has Stored Cross Site Scripting
+# Online Leave Management System v1.0 by oretnom23 has arbitrary file upload
 
 BUG_Author: realguoxiufeng
 
